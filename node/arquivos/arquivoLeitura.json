@@ -1,0 +1,9 @@
+{
+    "db": {
+        "host": "localhost",
+        "port":5432,
+        "sgbd": "oracledb",
+        "user": "root",
+        "password": "root"
+    }
+}
